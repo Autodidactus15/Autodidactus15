@@ -13,8 +13,6 @@
 2. **[Задания по статичестическому анализу данных](https://github.com/Autodidactus15/Statistics-with-Python)** : Тестирование гипотез, регрессионный анализ, бутстреп и тд.
 3. **[Простое приложение - игра в терминале]("Autodidactus15/python-project-50")** :Небольшая практика разработки приложений .
 
-Если ты заинтересован в сотрудничестве или обсуждении проектов, не стесняйся написать мне!
-
 
 <!---
 Autodidactus15/Autodidactus15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
